@@ -1,0 +1,18 @@
+p4: lambda_v/lambda_u/ratio/K: 10.000000/1.000000/0.010000/50
+Epoch 1 - tr_err/bcd_err/rec_err: 7340600.5/2810.5/7337790.0
+Epoch 2 - tr_err/bcd_err/rec_err: 7339851.5/2804.6/7337046.9
+Epoch 3 - tr_err/bcd_err/rec_err: 7338192.8/2070.3/7336122.6
+Epoch 4 - tr_err/bcd_err/rec_err: 7336894.8/1771.7/7335123.0
+Epoch 5 - tr_err/bcd_err/rec_err: 7335864.6/1764.9/7334099.6
+Epoch 6 - tr_err/bcd_err/rec_err: 7334823.4/1763.4/7333060.1
+Epoch 7 - tr_err/bcd_err/rec_err: 7333803.9/1761.9/7332042.0
+Epoch 8 - tr_err/bcd_err/rec_err: 7332771.2/1760.5/7331010.7
+Epoch 9 - tr_err/bcd_err/rec_err: 7331760.2/1759.2/7330001.0
+Epoch 10 - tr_err/bcd_err/rec_err: 7330754.2/1758.1/7328996.1
+Epoch 11 - tr_err/bcd_err/rec_err: 7329768.1/1757.4/7328010.7
+Epoch 12 - tr_err/bcd_err/rec_err: 7328778.4/1756.9/7327021.5
+Epoch 13 - tr_err/bcd_err/rec_err: 7327807.4/1756.7/7326050.8
+Epoch 14 - tr_err/bcd_err/rec_err: 7326845.4/1756.5/7325088.9
+Iter 9 - E: 1756.107
+Iter 19 - E: 1756.022
+Training error: 7326570.475

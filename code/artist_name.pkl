@@ -1,0 +1,857 @@
+(dp0
+I0
+S'a perfect circle'
+p1
+sI1
+S'abba'
+p2
+sI2
+S'ac/dc'
+p3
+sI3
+S'adam green'
+p4
+sI4
+S'aerosmith'
+p5
+sI5
+S'afi'
+p6
+sI6
+S'air'
+p7
+sI7
+S'alanis morissette'
+p8
+sI8
+S'alexisonfire'
+p9
+sI9
+S'alicia keys'
+p10
+sI10
+S'all that remains'
+p11
+sI11
+S'amon amarth'
+p12
+sI12
+S'amy macdonald'
+p13
+sI13
+S'amy winehouse'
+p14
+sI14
+S'anti-flag'
+p15
+sI15
+S'aphex twin'
+p16
+sI16
+S'apocalyptica'
+p17
+sI17
+S'arcade fire'
+p18
+sI18
+S'arch enemy'
+p19
+sI19
+S'arctic monkeys'
+p20
+sI20
+S'as i lay dying'
+p21
+sI21
+S'atb'
+p22
+sI22
+S'atreyu'
+p23
+sI23
+S'audioslave'
+p24
+sI24
+S'avril lavigne'
+p25
+sI25
+S'babyshambles'
+p26
+sI26
+S'bad religion'
+p27
+sI27
+S'beastie boys'
+p28
+sI28
+S'beatsteaks'
+p29
+sI29
+S'beck'
+p30
+sI30
+S'beirut'
+p31
+sI31
+S'belle and sebastian'
+p32
+sI32
+S'beyonce'
+p33
+sI33
+S'billy talent'
+p34
+sI34
+S'bjork'
+p35
+sI35
+S'black eyed peas'
+p36
+sI36
+S'black sabbath'
+p37
+sI37
+S'blind guardian'
+p38
+sI38
+S'blink-182'
+p39
+sI39
+S'bloc party'
+p40
+sI40
+S'bloodhound gang'
+p41
+sI41
+S'blur'
+p42
+sI42
+S'boards of canada'
+p43
+sI43
+S'bob dylan'
+p44
+sI44
+S'bob marley'
+p45
+sI45
+S'bob marley & the wailers'
+p46
+sI46
+S'breaking benjamin'
+p47
+sI47
+S'bright eyes'
+p48
+sI48
+S'bring me the horizon'
+p49
+sI49
+S'britney spears'
+p50
+sI50
+S'bruce springsteen'
+p51
+sI51
+S'bullet for my valentine'
+p52
+sI52
+S'caliban'
+p53
+sI53
+S'cascada'
+p54
+sI54
+S'cat power'
+p55
+sI55
+S'children of bodom'
+p56
+sI56
+S'chimaira'
+p57
+sI57
+S'christina aguilera'
+p58
+sI58
+S'clueso'
+p59
+sI59
+S'cocorosie'
+p60
+sI60
+S'coldplay'
+p61
+sI61
+S'crystal castles'
+p62
+sI62
+S'cypress hill'
+p63
+sI63
+S'daft punk'
+p64
+sI64
+S'damien rice'
+p65
+sI65
+S'dark tranquillity'
+p66
+sI66
+S'david bowie'
+p67
+sI67
+S'david guetta'
+p68
+sI68
+S'death cab for cutie'
+p69
+sI69
+S'deep purple'
+p70
+sI70
+S'deftones'
+p71
+sI71
+S'deichkind'
+p72
+sI72
+S'depeche mode'
+p73
+sI73
+S'dido'
+p74
+sI74
+S'die apokalyptischen reiter'
+p75
+sI75
+S'die toten hosen'
+p76
+sI76
+S'digitalism'
+p77
+sI77
+S'dimmu borgir'
+p78
+sI78
+S'dire straits'
+p79
+sI79
+S'disturbed'
+p80
+sI80
+S'dream theater'
+p81
+sI81
+S'dredg'
+p82
+sI82
+S'dropkick murphys'
+p83
+sI83
+S'duffy'
+p84
+sI84
+S'editors'
+p85
+sI85
+S'eels'
+p86
+sI86
+S'elliott smith'
+p87
+sI87
+S'eluveitie'
+p88
+sI88
+S'elvis presley'
+p89
+sI89
+S'eminem'
+p90
+sI90
+S'ensiferum'
+p91
+sI91
+S'enter shikari'
+p92
+sI92
+S'equilibrium'
+p93
+sI93
+S'eric clapton'
+p94
+sI94
+S'evanescence'
+p95
+sI95
+S'faithless'
+p96
+sI96
+S'fall out boy'
+p97
+sI97
+S'farin urlaub'
+p98
+sI98
+S'feist'
+p99
+sI99
+S'finntroll'
+p100
+sI100
+S'flogging molly'
+p101
+sI101
+S'flyleaf'
+p102
+sI102
+S'foo fighters'
+p103
+sI103
+S'frank sinatra'
+p104
+sI104
+S'franz ferdinand'
+p105
+sI105
+S'funeral for a friend'
+p106
+sI106
+S'genesis'
+p107
+sI107
+S'gentleman'
+p108
+sI108
+S'godsmack'
+p109
+sI109
+S'goldfrapp'
+p110
+sI110
+S'good charlotte'
+p111
+sI111
+S'gorillaz'
+p112
+sI112
+S'green day'
+p113
+sI113
+S'groove coverage'
+p114
+sI114
+S'guano apes'
+p115
+sI115
+S'guns n roses'
+p116
+sI116
+S'hammerfall'
+p117
+sI117
+S'hans zimmer'
+p118
+sI118
+S'hatebreed'
+p119
+sI119
+S'heaven shall burn'
+p120
+sI120
+S'him'
+p121
+sI121
+S'hoobastank'
+p122
+sI122
+S'hot chip'
+p123
+sI123
+S'howard shore'
+p124
+sI124
+S'in extremo'
+p125
+sI125
+S'in flames'
+p126
+sI126
+S'incubus'
+p127
+sI127
+S'interpol'
+p128
+sI128
+S'iron maiden'
+p129
+sI129
+S'jack johnson'
+p130
+sI130
+S'james blunt'
+p131
+sI131
+S'james morrison'
+p132
+sI132
+S'jamiroquai'
+p133
+sI133
+S'jason mraz'
+p134
+sI134
+S'jay-z'
+p135
+sI135
+S'jimi hendrix'
+p136
+sI136
+S'jimmy eat world'
+p137
+sI137
+S'johnny cash'
+p138
+sI138
+S'jose gonzalez'
+p139
+sI139
+S'joy division'
+p140
+sI140
+S'judas priest'
+p141
+sI141
+S'justice'
+p142
+sI142
+S'justin timberlake'
+p143
+sI143
+S'kaiser chiefs'
+p144
+sI144
+S'kanye west'
+p145
+sI145
+S'kate nash'
+p146
+sI146
+S'katie melua'
+p147
+sI147
+S'katy perry'
+p148
+sI148
+S'keane'
+p149
+sI149
+S'kelly clarkson'
+p150
+sI150
+S'killswitch engage'
+p151
+sI151
+S'kings of convenience'
+p152
+sI152
+S'kings of leon'
+p153
+sI153
+S'korpiklaani'
+p154
+sI154
+S'kreator'
+p155
+sI155
+S'lacuna coil'
+p156
+sI156
+S'lady gaga'
+p157
+sI157
+S'led zeppelin'
+p158
+sI158
+S'lenny kravitz'
+p159
+sI159
+S'leona lewis'
+p160
+sI160
+S'lily allen'
+p161
+sI161
+S'limp bizkit'
+p162
+sI162
+S'linkin park'
+p163
+sI163
+S'lostprophets'
+p164
+sI164
+S'machine head'
+p165
+sI165
+S'madonna'
+p166
+sI166
+S'mando diao'
+p167
+sI167
+S'manowar'
+p168
+sI168
+S'manu chao'
+p169
+sI169
+S'maria mena'
+p170
+sI170
+S'marilyn manson'
+p171
+sI171
+S'massive attack'
+p172
+sI172
+S'metallica'
+p173
+sI173
+S'mgmt'
+p174
+sI174
+S'michael jackson'
+p175
+sI175
+S'mika'
+p176
+sI176
+S'millencolin'
+p177
+sI177
+S'misfits'
+p178
+sI178
+S'moby'
+p179
+sI179
+S'modest mouse'
+p180
+sI180
+S'mogwai'
+p181
+sI181
+S'morcheeba'
+p182
+sI182
+S'motorhead'
+p183
+sI183
+S'muse'
+p184
+sI184
+S'my chemical romance'
+p185
+sI185
+S'nada surf'
+p186
+sI186
+S'nelly furtado'
+p187
+sI187
+S'nickelback'
+p188
+sI188
+S'nightwish'
+p189
+sI189
+S'nine inch nails'
+p190
+sI190
+S'nirvana'
+p191
+sI191
+S'nofx'
+p192
+sI192
+S'norah jones'
+p193
+sI193
+S'nouvelle vague'
+p194
+sI194
+S'oasis'
+p195
+sI195
+S'oomph!'
+p196
+sI196
+S'opeth'
+p197
+sI197
+S'panic at the disco'
+p198
+sI198
+S'papa roach'
+p199
+sI199
+S'paramore'
+p200
+sI200
+S'parkway drive'
+p201
+sI201
+S'pearl jam'
+p202
+sI202
+S'peter fox'
+p203
+sI203
+S'pink'
+p204
+sI204
+S'pink floyd'
+p205
+sI205
+S'placebo'
+p206
+sI206
+S'porcupine tree'
+p207
+sI207
+S'portishead'
+p208
+sI208
+S'queen'
+p209
+sI209
+S'queens of the stone age'
+p210
+sI210
+S'r.e.m.'
+p211
+sI211
+S'radiohead'
+p212
+sI212
+S'rage against the machine'
+p213
+sI213
+S'rammstein'
+p214
+sI214
+S'ramones'
+p215
+sI215
+S'razorlight'
+p216
+sI216
+S'red hot chili peppers'
+p217
+sI217
+S'regina spektor'
+p218
+sI218
+S'rihanna'
+p219
+sI219
+S'rise against'
+p220
+sI220
+S'rob zombie'
+p221
+sI221
+S'robbie williams'
+p222
+sI222
+S'schandmaul'
+p223
+sI223
+S'scooter'
+p224
+sI224
+S'seeed'
+p225
+sI225
+S'seether'
+p226
+sI226
+S'serj tankian'
+p227
+sI227
+S'silverstein'
+p228
+sI228
+S'simple plan'
+p229
+sI229
+S'slayer'
+p230
+sI230
+S'slipknot'
+p231
+sI231
+S'snow patrol'
+p232
+sI232
+S'soilwork'
+p233
+sI233
+S'sonata arctica'
+p234
+sI234
+S'sonic syndicate'
+p235
+sI235
+S'staind'
+p236
+sI236
+S'stars'
+p237
+sI237
+S'stone sour'
+p238
+sI238
+S'subway to sally'
+p239
+sI239
+S'sufjan stevens'
+p240
+sI240
+S'sum 41'
+p241
+sI241
+S'system of a down'
+p242
+sI242
+S'tegan and sara'
+p243
+sI243
+S'tenacious d'
+p244
+sI244
+S'the beatles'
+p245
+sI245
+S'the chemical brothers'
+p246
+sI246
+S'the clash'
+p247
+sI247
+S'the cure'
+p248
+sI248
+S'the decemberists'
+p249
+sI249
+S'the doors'
+p250
+sI250
+S'the fratellis'
+p251
+sI251
+S'the fray'
+p252
+sI252
+S'the hives'
+p253
+sI253
+S'the killers'
+p254
+sI254
+S'the kooks'
+p255
+sI255
+S'the libertines'
+p256
+sI256
+S'the national'
+p257
+sI257
+S'the notwist'
+p258
+sI258
+S'the offspring'
+p259
+sI259
+S'the postal service'
+p260
+sI260
+S'the prodigy'
+p261
+sI261
+S'the pussycat dolls'
+p262
+sI262
+S'the rolling stones'
+p263
+sI263
+S'the shins'
+p264
+sI264
+S'the smashing pumpkins'
+p265
+sI265
+S'the smiths'
+p266
+sI266
+S'the streets'
+p267
+sI267
+S'the strokes'
+p268
+sI268
+S'the subways'
+p269
+sI269
+S'the ting tings'
+p270
+sI270
+S'the used'
+p271
+sI271
+S'the white stripes'
+p272
+sI272
+S'the wombats'
+p273
+sI273
+S'thievery corporation'
+p274
+sI274
+S'three days grace'
+p275
+sI275
+S'timbaland'
+p276
+sI276
+S'tom waits'
+p277
+sI277
+S'tool'
+p278
+sI278
+S'tori amos'
+p279
+sI279
+S'travis'
+p280
+sI280
+S'trivium'
+p281
+sI281
+S'u2'
+p282
+sI282
+S'underoath'
+p283
+sI283
+S'volbeat'
+p284
+sI284
+S'yann tiersen'
+p285
+s.
